@@ -1,0 +1,16 @@
+.box{
+	background-color: skyblue;
+	min-height: 80px;
+	margin: 10px 0;
+	font-size: 20px;
+}
+.header ,.hero, .body,.footer,.bar{
+	background-color: pink;
+	margin-bottom: 20px;
+}
+.red{
+	background-color:lime;
+}
+.blue{
+	background-color: blue;
+}
